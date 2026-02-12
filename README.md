@@ -61,7 +61,7 @@ Python 3.6+
 
 4. **Install Requirements**
 
-   - Install all the requirements given in **[requirements.txt](https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/requirements.txt)** by running the command `pip install -r requirements.txt`
+   - Install all the requirements given in **[requirements.txt] by running the command `pip install -r requirements.txt`
 
 5. **Install PyAudio**  
    - Follow the instructions given **[here](https://stackoverflow.com/questions/52283840/i-cant-install-pyaudio-on-windows-how-to-solve-error-microsoft-visual-c-14)**
@@ -79,48 +79,7 @@ Python 3.6+
      deactivate
      ```
 
-## 📌Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## 📌Author
-
-👤 **Kishan Kumar Rai**
-
-- Twitter: [@kishan_rajput23](https://twitter.com/kishan_rajput23)
-- Github: [@kishanrajput23](https://github.com/kishanrajput23)
-- LinkedIn: [@kishan-kumar-rai](https://linkedin.com/in/kishan-kumar-rai-23112000)
-
-## 📌Show your support
-
-Please ⭐️ this repository if this project helped you!
-
-## 📌License
-
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
-
-## 📌Learning Resources to Extend This Project
-
-To build this project further and enhance its capabilities, a strong understanding of the following areas is recommended:
-
-### 🐍 Python Fundamentals
-Python is the core language behind this project. A solid grasp of syntax, control flow, functions, and error handling will help you modify and extend the assistant’s functionality.  
-👉 [Python Programming Course](https://www.mygreatlearning.com/academy/premium/master-python-programming)
-
-### 🎙️ Voice Processing & NLP
-Voice commands are processed using speech and text-based techniques. Understanding Natural Language Processing (NLP) concepts such as tokenization and text analysis can help improve voice interaction.  
-👉 [Introduction to NLP](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-natural-language-processing)
-
-### 🤖 Intelligence & Generative AI
-Currently, the assistant follows predefined logic. By integrating Generative AI concepts, it can be enhanced into a conversational assistant capable of generating intelligent responses and performing web-based tasks.  
-👉 [Introduction to Generative AI](https://www.mygreatlearning.com/academy/premium/master-generative-ai)
-
-### 👁️ Computer Vision
-To make the assistant more advanced, computer vision can be introduced for features like face detection and gesture control. Learning image and video processing fundamentals is a good starting point.  
-👉 [Computer Vision Essentials](https://www.mygreatlearning.com/academy/learn-for-free/courses/computer-vision-essentials)
-
-### 📄 Related Reading
-For a conceptual overview of building voice assistants in Python, you can refer to this article: [CLICK HERE](https://www.mygreatlearning.com/blog/jarvis-desktop-assistant-python-project/)
 
 ---
 
